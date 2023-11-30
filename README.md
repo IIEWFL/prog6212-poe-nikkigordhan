@@ -10,6 +10,8 @@ Step 2: Navigate to the Config.xml to change the connection string,change the co
 Step 3: Run the PROG6212_PoE_Part3.sln. </br>
  </p>
 <h5> For a regular user: </h5>
+<p> Step 1: the user needs to browse to the website that hosts the web application 'Study Management'
+</p>
 <h4> How to run the Databse: </h4>
  <p> Step 1: Download the SQL Scripts from GitHub and change the name that suits you. </br>
  Step 2: Run the scripts.</br>
